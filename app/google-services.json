@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1044623225942",
+    "project_id": "mobiledev-4afda",
+    "storage_bucket": "mobiledev-4afda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044623225942:android:276c679b8672de7a22b7f7",
+        "android_client_info": {
+          "package_name": "org.danp.samplenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044623225942-877msuqub0p79vugsjqf50pb07cp26qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ_7BHB9HLk4LepSHALmenE-HjOl750BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044623225942-877msuqub0p79vugsjqf50pb07cp26qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
